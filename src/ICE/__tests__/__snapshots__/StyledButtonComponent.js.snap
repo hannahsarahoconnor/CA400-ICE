@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StyledButton Rendering should match to snapshot - Primary: Primary button snapshot 1`] = `ShallowWrapper {}`;
+
+exports[`StyledButton Rendering should match to snapshot - Secondary: Secondary button snapshot 1`] = `ShallowWrapper {}`;

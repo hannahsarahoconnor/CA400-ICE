@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1005385908218",
+    "firebase_url": "https://iceapp-47499.firebaseio.com",
+    "project_id": "iceapp-47499",
+    "storage_bucket": "iceapp-47499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005385908218:android:6b5e0bc26c6f2f9f8dee43",
+        "android_client_info": {
+          "package_name": "com.ice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005385908218-c26pc2bqe6okv1vuthoggq1sgcf72jbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ice",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1005385908218-809ds5792d0lh3bl7aium422hufp1f77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfEb3tQVit-nhdAPlq43SowOAb_Yi8svE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005385908218-809ds5792d0lh3bl7aium422hufp1f77.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005385908218-et5q49d51siueb22lstcijbrveujul4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ICE"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

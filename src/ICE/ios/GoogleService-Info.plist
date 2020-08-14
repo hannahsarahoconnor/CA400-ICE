@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1005385908218-et5q49d51siueb22lstcijbrveujul4j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1005385908218-et5q49d51siueb22lstcijbrveujul4j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKzF5aLqLc-8wakZBpFdrDi9MeiKrKySg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1005385908218</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.ICE</string>
+	<key>PROJECT_ID</key>
+	<string>iceapp-47499</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iceapp-47499.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1005385908218:ios:a67cdb486fe652cc8dee43</string>
+	<key>DATABASE_URL</key>
+	<string>https://iceapp-47499.firebaseio.com</string>
+</dict>
+</plist>
